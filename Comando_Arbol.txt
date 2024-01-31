@@ -1,0 +1,76 @@
+mairena@admairena:~/Practica$ tree
+.
+├── Buscar.zip
+├── clase script.sh
+├── diccionario.txt
+├── Directorio1
+│   ├── carpeta1
+│   │   ├── doc1.txt
+│   │   ├── doc2.txt
+│   │   └── doc3.txt
+│   ├── carpeta2
+│   │   ├── archivo1.txt
+│   │   ├── archivo2.txt
+│   │   └── archivo3.txt
+│   └── carpeta3
+│       ├── file1.txt
+│       ├── file2.txt
+│       └── file3.txt
+├── Directorio2
+│   ├── D21
+│   │   └── d21.txt
+│   ├── D22
+│   │   ├── 01_HTML_Comunicado-Charlas-TCU-C12020.png
+│   │   ├── 1411622070_87423.ico
+│   │   ├── Antecedentes-Linux.jpg
+│   │   ├── Asamblea.jpg
+│   │   ├── d22.txt
+│   │   ├── diagrama de colas.jpg
+│   │   └── Imagen 1 examen.PNG
+│   └── D23
+│       ├── AGENDA-I Simposio de Investigación.pdf
+│       ├── Base de datos3.accdb
+│       ├── d23.txt
+│       ├── distribucion_de_items_biologia_2017.pdf
+│       ├── Fichas.ppsx
+│       ├── formulas.wmf
+│       ├── pgadmin.log
+│       └── Sin título 1.mp3
+├── Directorio3
+│   └── doc3.txt
+├── Ejemplo.txt
+├── poemas
+│   ├── angel_gonzalez
+│   │   ├── cumpleaños_de_amor.txt
+│   │   ├── muerte_en_el_olvido.txt
+│   │   ├── para_que_yo_me_llame.txt
+│   │   ├── PaxHeader
+│   │   │   └── cumpleaños_de_amor.txt
+│   │   └── primera_evocacion.txt
+│   ├── Gustavo_Adolfo_Becquer
+│   │   ├── cuando_en_la_noche_te_envuelven.txt
+│   │   ├── habra_poesia.txt
+│   │   ├── te_vi_un_punto.txt
+│   │   └── volveran_las_oscuras_golondrinas.txt
+│   ├── Juan_Ramon_Jimenez
+│   │   ├── desnudos.txt
+│   │   ├── el_color_de_tu_alma.txt
+│   │   └── manos.txt
+│   └── varios
+│       ├── carta_de_separacion.txt
+│       └── este_ya.txt
+├── Semana6
+│   ├── abc
+│   │   └── conexion.php
+│   ├── abc.txt
+│   ├── Folder
+│   │   ├── main.css
+│   │   ├── Nuevo.php
+│   │   ├── Oculto.txt
+│   │   └── prueba.php
+│   ├── index.html
+│   └── index.php
+└── tablasdinamicas.txt
+
+18 directories, 53 files
+mairena@admairena:~/Practica$ 

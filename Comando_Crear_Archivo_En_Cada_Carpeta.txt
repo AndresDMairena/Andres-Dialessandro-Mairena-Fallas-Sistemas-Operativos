@@ -1,0 +1,4 @@
+mairena@admairena:~/Practica/Directorio2$ touch /home/mairena/Practica/Directorio2/D21/Void_File1.txt
+mairena@admairena:~/Practica/Directorio2$ touch /home/mairena/Practica/Directorio2/D22/Void_File2.txt
+mairena@admairena:~/Practica/Directorio2$ touch /home/mairena/Practica/Directorio2/D23/Void_File3.txt
+mairena@admairena:~/Practica/Directorio2$ 

@@ -1,0 +1,2 @@
+mairena@admairena:~/Practica$ cd Directorio2
+mairena@admairena:~/Practica/Directorio2$ 

@@ -1,0 +1,7 @@
+mairena@admairena:~/Practica/Directorio2$ ls -l
+total 16
+-rw-rw-r-- 1 mairena mairena  124 Jan 31 07:10 Comando_Ubicacion_Actual.txt
+drwxrwxr-x 2 mairena mairena 4096 Sep 24  2021 D21
+drwxrwxr-x 2 mairena mairena 4096 Sep 24  2021 D22
+drwxrwxr-x 2 mairena mairena 4096 Sep 24  2021 D23
+mairena@admairena:~/Practica/Directorio2$ 

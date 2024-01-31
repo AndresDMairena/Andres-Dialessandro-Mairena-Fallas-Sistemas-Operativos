@@ -1,0 +1,5 @@
+mairena@admairena:~/Practica/Directorio2$ mkdir Tarea1
+mairena@admairena:~/Practica/Directorio2$ mkdir Tarea2
+mairena@admairena:~/Practica/Directorio2$ touch /home/mairena/Practica/Directorio2/Tarea1/Archivo1.txt
+mairena@admairena:~/Practica/Directorio2$ touch /home/mairena/Practica/Directorio2/Tarea2/Archivo2.txt
+mairena@admairena:~/Practica/Directorio2$ 

@@ -1,0 +1,63 @@
+mairena@admairena:~/Practica$ tree
+.
+├── Buscar.zip
+├── clase script.sh
+├── Comando_Arbol.txt
+├── Comando_Borrar_Directorio2.txt
+├── Comando_Crear_2_Directorios.txt
+├── Comando_Crear_Archivo_En_Cada_Carpeta.txt
+├── Comando_entrar_en_Directorio2.txt
+├── Comando_Regresar_A_Practica_Con_Direccion_Absoluta.txt
+├── diccionario.txt
+├── Directorio1
+│   ├── carpeta1
+│   │   ├── doc1.txt
+│   │   ├── doc2.txt
+│   │   └── doc3.txt
+│   ├── carpeta2
+│   │   ├── archivo1.txt
+│   │   ├── archivo2.txt
+│   │   └── archivo3.txt
+│   └── carpeta3
+│       ├── file1.txt
+│       ├── file2.txt
+│       └── file3.txt
+├── Directorio3
+│   └── doc3.txt
+├── Ejemplo.txt
+├── Lista_Archivos_Directorio2.txt
+├── poemas
+│   ├── angel_gonzalez
+│   │   ├── cumpleaños_de_amor.txt
+│   │   ├── muerte_en_el_olvido.txt
+│   │   ├── para_que_yo_me_llame.txt
+│   │   ├── PaxHeader
+│   │   │   └── cumpleaños_de_amor.txt
+│   │   └── primera_evocacion.txt
+│   ├── Gustavo_Adolfo_Becquer
+│   │   ├── cuando_en_la_noche_te_envuelven.txt
+│   │   ├── habra_poesia.txt
+│   │   ├── te_vi_un_punto.txt
+│   │   └── volveran_las_oscuras_golondrinas.txt
+│   ├── Juan_Ramon_Jimenez
+│   │   ├── desnudos.txt
+│   │   ├── el_color_de_tu_alma.txt
+│   │   └── manos.txt
+│   └── varios
+│       ├── carta_de_separacion.txt
+│       └── este_ya.txt
+├── Semana6
+│   ├── abc
+│   │   └── conexion.php
+│   ├── abc.txt
+│   ├── Folder
+│   │   ├── main.css
+│   │   ├── Nuevo.php
+│   │   ├── Oculto.txt
+│   │   └── prueba.php
+│   ├── index.html
+│   └── index.php
+└── tablasdinamicas.txt
+
+14 directories, 44 files
+mairena@admairena:~/Practica$ 
