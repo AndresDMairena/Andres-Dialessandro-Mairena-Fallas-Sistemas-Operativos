@@ -1,0 +1,3 @@
+mairena@admairena:~/Practica/Directorio2$ pwd
+/home/mairena/Practica/Directorio2
+mairena@admairena:~/Practica/Directorio2$ 
