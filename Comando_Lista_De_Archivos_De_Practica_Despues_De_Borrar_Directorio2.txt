@@ -1,0 +1,21 @@
+mairena@admairena:~/Practica$ ls -l
+total 1136
+-rw-rw-r-- 1 mairena mairena    2152 Sep 24  2021  Buscar.zip
+-rw-rw-r-- 1 mairena mairena     871 Sep 24  2021 'clase script.sh'
+-rw-rw-r-- 1 mairena mairena    2198 Jan 31 07:37  Comando_Arbol_Despues_De_Borrar_Directorio2.txt
+-rw-rw-r-- 1 mairena mairena    2678 Jan 31 07:34  Comando_Arbol.txt
+-rw-rw-r-- 1 mairena mairena     968 Jan 31 07:35  Comando_Borrar_Directorio2.txt
+-rw-rw-r-- 1 mairena mairena     359 Jan 31 07:34  Comando_Crear_2_Directorios.txt
+-rw-rw-r-- 1 mairena mairena     349 Jan 31 07:34  Comando_Crear_Archivo_En_Cada_Carpeta.txt
+-rw-rw-r-- 1 mairena mairena      88 Jan 31 07:34  Comando_entrar_en_Directorio2.txt
+-rw-rw-r-- 1 mairena mairena      99 Jan 31 07:35  Comando_Regresar_A_Practica_Con_Direccion_Absoluta.txt
+-rw-rw-r-- 1 mairena mairena 1088547 Sep 24  2021  diccionario.txt
+drwxrwxr-x 5 mairena mairena    4096 Sep 24  2021  Directorio1
+drwxrwxr-x 2 mairena mairena    4096 Sep 24  2021  Directorio3
+-rw-rw-r-- 1 mairena mairena    1779 Sep 24  2021  Ejemplo.txt
+-rw-rw-r-- 1 mairena mairena     329 Jan 31 07:34  Lista_Archivos_Directorio2.txt
+drwxrwxr-x 6 mairena mairena    4096 Sep 24  2021  poemas
+drwxrwxr-x 4 mairena mairena    4096 Sep 24  2021  Semana6
+-rw-rw-r-- 1 mairena mairena    9309 Sep 24  2021  tablasdinamicas.txt
+mairena@admairena:~/Practica$ 
+
